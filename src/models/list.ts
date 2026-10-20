@@ -11,6 +11,7 @@ import { M18V3Definition } from './M18V3.js'
 import { Ajaz_AKP153Definition } from './Ajazz-AKP153.js'
 import { Ajaz_AKP153EDefinition } from './Ajazz-AKP153E.js'
 import { Ajaz_AKP03EDefinition } from './Ajazz-AKP03E.js'
+import { N1_Definition } from './N1.js'					  
 import { Ajaz_AKP05EDefinition } from './Ajazz-AKP05E.js'
 import { soomfon_CN002Definition } from './soomfon-CN002.js'
 
@@ -85,6 +86,7 @@ export const AllModels: StreamDockModelDefinition[] = [
 	Ajaz_AKP153Definition,
 	Ajaz_AKP153EDefinition,
 	Ajaz_AKP03EDefinition,
+	N1_Definition,
 	Ajaz_AKP05EDefinition,
 	soomfon_CN002Definition,
 ]
